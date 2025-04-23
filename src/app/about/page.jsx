@@ -35,7 +35,7 @@ const AboutPage = () => {
         <section>
           <div className='flex flex-col gap-[50px] ml-[20px] pt-[200px]'>
             <h1 className='font-bold text-4xl text-white'>BIOGRAPHY</h1>
-            <p className='text-lg text-white'>AstroApe Studioss is a creative tech company offering game development, web and app solutions, and deployment services. Blending innovation with solid engineering, we craft engaging digital experiences that bring ideas to life. At AstroApe, we don&apos;t just build software — we launch it into orbit.</p>
+            <p className='text-lg text-white'>AstroApe Studioass is a creative tech company offering game development, web and app solutions, and deployment services. Blending innovation with solid engineering, we craft engaging digital experiences that bring ideas to life. At AstroApe, we don&apos;t just build software — we launch it into orbit.</p>
             <p className='text-md italic text-white'>We offer perfection.</p>
 
             {/* SIGN SVG */}
