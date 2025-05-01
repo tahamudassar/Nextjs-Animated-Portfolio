@@ -57,7 +57,7 @@ const Contactpage = () => {
 
          <div className='flex'>
          <form  ref={form} onSubmit={sendEmail}className='bg-black/30 p-20 flex flex-col gap-[20px] lg:w-[500px] lg:py-[110px] lg:pb-[165px] xl:w-[600px] xl:py-[135px] xl:px-14 border border-red-900/50 rounded-lg'>
-           <span className=' font-semibold text-white'>Dear Abd </span>
+           <span className=' font-semibold text-white'>Dear AstroApe Team</span>
            <textarea rows={6} className='bg-transparent text-white border-red-900 border-b-2' name="message"/>
            <span className=' font-semibold text-white' >
              my mail address is
