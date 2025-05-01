@@ -81,7 +81,7 @@ const Portfoliopage = () => {
                      </video>
                    )}
                  </div>
-                  <p className='text-justify text-md  w-2/3 lg:w-1/2'>{item.desc}</p>
+                  <p className='text-md  w-2/3 lg:w-1/2'>{item.desc}</p>
                   
               </div>
              </div>

@@ -21,7 +21,7 @@ const Homepage = () => {
       <h1 className="text-3xl font-bold md:text-4xl text-white">At AstroApe, we don’t just build software — we launch it into orbit</h1>
       </div>
       <div className="flex ml-[10px]">
-      <p className="text-md md:text-lg text-white"> am trying to learn Web Dev with full convivtion and Allah is helping me definitely thereb is no doubt about this</p>
+      <p className="text-md md:text-lg text-white"> From Concept to Cosmos</p>
       </div>
        {/* BUTTONS */}
        <div className="flex gap-[10px] ">
