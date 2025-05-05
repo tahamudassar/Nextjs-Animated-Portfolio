@@ -104,7 +104,7 @@ const Navbar = () => {
              <Link href="/" className="hover:opacity-80 transition-opacity">
              <Image src="/facebook.png" width={24} height={24} alt="" />
              </Link>
-             <Link href="/" className="hover:opacity-80 transition-opacity">
+             <Link href="https://www.linkedin.com/company/astroape-studios" className="hover:opacity-80 transition-opacity">
              <Image src="/linkedin.png" width={24} height={24} alt="" />
              </Link>
              <Link href="/" className="hover:opacity-80 transition-opacity">
