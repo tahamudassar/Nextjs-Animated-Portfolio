@@ -191,7 +191,7 @@ const AboutPage = () => {
       <div className='flex flex-col gap-[20px]'>
         {/* JOB POST DIV */}
          <div className='bg-white w-[150px] h-fit p-2 text-black rounded-b-md rounded-s-md font-bold'>
-          Taha mudasser
+          Taha Mudassar
          </div>
          {/* JOB DESC */}
         <p className='text-md italic text-white'>App Dev and DevOps</p>
